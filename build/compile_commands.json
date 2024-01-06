@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/sasha/source/OtusCC/CI_CD/build",
+  "command": "/usr/bin/g++  -I/home/sasha/source/OtusCC/CI_CD/build -g -Wall -Wextra -pedantic -Werror -std=gnu++14 -o CMakeFiles/helloworld.dir/lib.cpp.o -c /home/sasha/source/OtusCC/CI_CD/lib.cpp",
+  "file": "/home/sasha/source/OtusCC/CI_CD/lib.cpp"
+},
+{
+  "directory": "/home/sasha/source/OtusCC/CI_CD/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -pedantic -Werror -std=gnu++14 -o CMakeFiles/helloworld_cli.dir/main.cpp.o -c /home/sasha/source/OtusCC/CI_CD/main.cpp",
+  "file": "/home/sasha/source/OtusCC/CI_CD/main.cpp"
+},
+{
+  "directory": "/home/sasha/source/OtusCC/CI_CD/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB  -g -Wall -Wextra -pedantic -Werror -std=gnu++14 -o CMakeFiles/test_version.dir/test_version.cpp.o -c /home/sasha/source/OtusCC/CI_CD/test_version.cpp",
+  "file": "/home/sasha/source/OtusCC/CI_CD/test_version.cpp"
+}
+]
