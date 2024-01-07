@@ -907,7 +907,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "0.0.2"
+			"value" : "0.0.5"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION_MAJOR",
@@ -943,7 +943,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "2"
+			"value" : "5"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION_TWEAK",
@@ -1355,7 +1355,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "2"
+			"value" : "5"
 		},
 		{
 			"name" : "boost_headers_DIR",
